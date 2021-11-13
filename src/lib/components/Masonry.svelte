@@ -94,7 +94,7 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
     onMount(async() => {
         _window = window
         _window.addEventListener('resize', refreshLayout, false) /* on resize */
-        refreshLayout();
+        calcGrid();
     })
     onDestroy(() => {
         if(_window) {

@@ -17,7 +17,7 @@
     </div>
     
     <div class="attribution">
-        ©2022 electric spring. designed by <a href='https://jamesbradbury.net'>James Bradbury</a> and Niamh Dell
+        ©2022 Electric Spring. Designed by <a href='https://jamesbradbury.net'>James Bradbury</a> and Niamh Dell
     </div>
 
 </footer>

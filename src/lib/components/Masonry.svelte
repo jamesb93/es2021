@@ -94,6 +94,7 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
     onMount(() => {
         _window = window
         _window.addEventListener('resize', refreshLayout, false) /* on resize */
+        refreshLayout();
     })
     onDestroy(() => {
         if(_window) {

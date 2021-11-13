@@ -91,7 +91,7 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
     
     
     let _window
-    onMount(() => {
+    onMount(async() => {
         _window = window
         _window.addEventListener('resize', refreshLayout, false) /* on resize */
         refreshLayout();

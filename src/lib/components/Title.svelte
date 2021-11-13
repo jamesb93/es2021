@@ -1,6 +1,7 @@
 <script>
     const title = 'electric spring';
     let printedTitle = title;
+    let logoUrl = '/circle1.png';
 
     function randomise() {
         let random = '';
@@ -16,6 +17,15 @@
         printedTitle = random;
     }
     randomise();
+
+    const randomiseLogo = () => {
+        let logoChoice = Math.round(
+            (Math.random() * 4) + 1
+        );
+        logoUrl = `/circle${logoChoice}.png`
+        console.log(logoUrl)
+    }
+    randomiseLogo();
 </script>
 
 <div class='grid'>
@@ -24,7 +34,7 @@
         { letter }
     </div>
     {/each}
-    <img src='/circle.jpg' class=logo/>
+    <img src={logoUrl} class=logo/>
 </div>
 
 <style lang='scss'>

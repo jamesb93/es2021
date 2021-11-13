@@ -24,6 +24,7 @@
         { letter }
     </div>
     {/each}
+    <img src='/circle.jpg' class=logo/>
 </div>
 
 <style lang='scss'>
@@ -38,5 +39,9 @@
         font-size: 6rem;
         width: fit-content;
         height: fit-content
+    }
+
+    .logo {
+        max-width: 4rem;
     }
 </style>

@@ -34,7 +34,9 @@
         { letter }
     </div>
     {/each}
-    <img src={logoUrl} class=logo/>
+    <div class="cell">
+        <img src={logoUrl} class=logo/>
+    </div>
 </div>
 
 <style lang='scss'>

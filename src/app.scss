@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Cairo&family=Major+Mono+Display&family=Mukta&family=Overpass+Mono&family=Poppins&family=Fira+Sans&display=swap');
 $mono: 'Major Mono Display', monospace;
 $overpass: 'Overpass Mono', monospace;
-$breakpoint: 80ch;
+$breakpoint: 100ch;
 // $overpass: 'Poppins', sans-serif;
 // $overpass: 'Mukta', sans-serif;
 // $overpass: 'Cairo', sans-serif;
@@ -20,4 +20,5 @@ a:hover {
 
 .h2 {
     font-size: 3.5rem;
+    text-align: left;
 }

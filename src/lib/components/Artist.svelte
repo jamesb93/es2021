@@ -35,6 +35,7 @@
     }
     .profile {
         max-width: 100%;
+        max-height: 200px;
     }
     .name {
         font-size: 2rem;
@@ -44,6 +45,11 @@
         width: 100%;
         font-size: 1rem;
         font-family: $overpass;
+        text-align: left;
+    }
+
+    a {
+        margin: 0 auto;
     }
 
     a:hover {

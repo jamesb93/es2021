@@ -1,7 +1,7 @@
 <script>
     const title = 'electric spring';
     let printedTitle = title;
-    let logoUrl = '/circle1.png';
+    let logoUrl = '/logo/circle1.png';
 
     function randomise() {
         let random = '';
@@ -19,10 +19,8 @@
     randomise();
 
     const randomiseLogo = () => {
-        let logoChoice = Math.round(
-            (Math.random() * 4) + 1
-        );
-        logoUrl = `/circle${logoChoice}.png`
+        let logoChoice = Math.round((Math.random() * 4) + 1);
+        logoUrl = `/logo/circle${logoChoice}.png`
         console.log(logoUrl)
     }
     randomiseLogo();
@@ -44,7 +42,8 @@
         display: grid;
         grid-template-columns: repeat(auto-fill, 6rem);
         place-items: center;
-        font-family: $mono; 
+        font-family: $mono;
+        padding-bottom: 2em;
     }
 
     .cell {

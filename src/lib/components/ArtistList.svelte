@@ -37,7 +37,7 @@
 
 <h2>ARTISTS</h2>
 
-<Masonry stretchFirst={false} colWidth={'minmax(Min(20em, 100%), 1fr)'}>
+<Masonry stretchFirst={false} gridGap={'1em'} colWidth={'minmax(Min(20em, 100%), 1fr)'}>
 {#each Object.entries(artists) as [k, v]}
     <Artist
         name={k}

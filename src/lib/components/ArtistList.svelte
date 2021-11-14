@@ -35,7 +35,7 @@
     };
 </script>
 
-<div class='h2'>ARTISTS</div>
+<h2>ARTISTS</h2>
 
 <Masonry stretchFirst={false} colWidth={'minmax(Min(20em, 100%), 1fr)'}>
 {#each Object.entries(artists) as [k, v]}

@@ -1,4 +1,4 @@
-<div class='h2'>Creative Coding Lab Symposium</div>
+<h2>Creative Coding Lab Symposium</h2>
 
 <div class='teaser'>
     <div class='photo'>

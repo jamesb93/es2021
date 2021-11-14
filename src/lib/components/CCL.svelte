@@ -3,7 +3,7 @@
 <div class='teaser'>
     <div class='photo'>
         <img src='/lauren.jpeg' />
-        <div class='photo-text'>
+        <div>
             <a href='https://www.laurensarahhayes.com/'>
                 Lauren Sarah Hayes
             </a>
@@ -22,28 +22,37 @@
 
 <style lang='scss'>
     .teaser {
+        font-family: $overpass;
         display: flex;
         flex-direction: row;
         flex-wrap: wrap;
         gap: 1em;
-        font-family: $overpass;
+        justify-content: center;
     }
 
     .photo {
         display: flex;
         flex-direction: column;
-    }
+        min-width: 200px;
+        max-width: 50%;
 
-    img {
-        max-width: 100%;
-    }
+        img {
+            width: 100%;
+        }
 
-    .photo-text {
-        font-size: 0.8rem;
+        div {
+            font-size: 0.75rem;
+            margin: 0 auto;
+        }
     }
 
     .blurb {
         font-size: 1rem;
+        // margin: 0 auto;
+        // max-width: 75ch;
+        min-width: 10ch;
+        width: 55ch;
+        min-width: 30ch;
     }
 
     .signature {

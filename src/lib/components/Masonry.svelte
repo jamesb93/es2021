@@ -18,6 +18,7 @@
 -->
 
 
+<svelte:window on:resize={refreshLayout} />
 
 <div bind:this={masonryElement} 
 class={`__grid--masonry ${stretchFirst ? '__stretch-first' : ''}`}
@@ -26,14 +27,12 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
 <slot></slot>
 </div>
 
-
-
 <script>
     import { onMount, onDestroy, getContext, setContext, tick } from 'svelte'
-    export let  stretchFirst = false,
-    gridGap = '0.5em',
-    colWidth = 'minmax(Min(20em, 100%), 1fr)',
-    items = [] // pass in data if it's dynamically updated
+    export let  stretchFirst = false;
+    export let gridGap = '0.5em'
+    export let colWidth = 'minmax(Min(20em, 100%), 1fr)'
+    export let items = [] // pass in data if it's dynamically updated
     let grids = [], masonryElement
     
     const refreshLayout = async () => {
@@ -90,18 +89,9 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
     
     
     
-    let _window
     onMount(async() => {
-        _window = window
-        _window.addEventListener('resize', refreshLayout, false) /* on resize */
         calcGrid();
     })
-    onDestroy(() => {
-        if(_window) {
-            _window.removeEventListener('resize', refreshLayout, false) /* on resize */
-        }
-    })
-    
     
     $: if(masonryElement) {
         calcGrid([masonryElement])
@@ -111,11 +101,6 @@ style={`--grid-gap: ${gridGap}; --col-width: ${colWidth};`}
         masonryElement = masonryElement // refresh masonryElement
     }
 </script>
-
-<!-- 
-    $w: var(--col-width); // minmax(Min(20em, 100%), 1fr);
-    $s: var(--grid-gap); // .5em;
--->
 
 <style>
     :global(.__grid--masonry) {

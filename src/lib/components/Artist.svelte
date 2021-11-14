@@ -33,7 +33,7 @@
         gap: 10px;
         padding: 1em;
         height: max-content;
-        border-left: 1px solid rgb(171, 171, 171);
+        border: 1px solid rgb(171, 171, 171);
     }
     .profile {
         max-width: 100%;

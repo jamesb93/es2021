@@ -1,11 +1,8 @@
 <footer class='container'>
     <img class='footer-break' src='/logo/circle1.png' />
+    <hr class='line'>
     <div class='contact'>
         For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring.hud.ac.uk</a>
-    </div>
-
-    <div class='sorry'>
-        The Electric Spring organising committee apologises that we cannot reply to unsolicited concert/project proposals.
     </div>
 
     <div class='address'>
@@ -29,11 +26,16 @@
         flex-direction: column;
         justify-content: center;
         gap: 1em;
-        width: 100%;
+        width: 65%;
         margin-top: auto;
         font-family: $overpass;
-        
+        margin: 0 auto;
     }
+
+    .line {
+        width: 100%;
+    }
+
 
     .footer-break {
         width: 3rem;

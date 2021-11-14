@@ -30,6 +30,7 @@
         margin-top: auto;
         font-family: $overpass;
         margin: 0 auto;
+        padding-bottom: 3em;
     }
 
     .line {

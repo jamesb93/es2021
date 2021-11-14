@@ -1,4 +1,5 @@
 <footer class='container'>
+    <img class='footer-break' src='/logo/circle1.png' />
     <div class='contact'>
         For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring.hud.ac.uk</a>
     </div>
@@ -32,6 +33,11 @@
         margin-top: auto;
         font-family: $overpass;
         
+    }
+
+    .footer-break {
+        width: 3rem;
+        margin: 0 auto;
     }
     .contact {
 

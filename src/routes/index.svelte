@@ -4,6 +4,13 @@
     import Footer from '$lib/components/Footer.svelte';
 </script>
 
-<ArtistList />
-<CCL />
-<Footer />
+<p class='info'>line up and details coming soon...</p>
+<!-- <ArtistList /> -->
+<!-- <CCL /> -->
+<!-- <Footer /> -->
+
+<style>
+    .info {
+        font-size: 2rem;
+    }
+</style>

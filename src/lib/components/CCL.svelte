@@ -50,7 +50,6 @@
         font-size: 1rem;
         // margin: 0 auto;
         // max-width: 75ch;
-        min-width: 10ch;
         width: 55ch;
         min-width: 30ch;
     }

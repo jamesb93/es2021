@@ -33,23 +33,23 @@
     </div>
     {/each}
     <div class="cell">
-        <img src={logoUrl} class=logo/>
+        <img src={logoUrl} class=logo alt='electric spring logo'/>
     </div>
 </div>
 
 <style lang='scss'>
     .grid {
         display: grid;
-        grid-template-columns: repeat(auto-fill, 6rem);
+        grid-template-columns: repeat(auto-fill, 5rem);
         place-items: center;
         font-family: $mono;
         padding-bottom: 2em;
     }
 
     .cell {
-        font-size: 6rem;
-        width: fit-content;
-        height: fit-content
+        font-size: 5rem;
+        width: max-content;
+        height: max-content
     }
 
     .logo {

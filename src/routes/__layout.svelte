@@ -9,7 +9,13 @@
     let styleString = `background-color:rgb(${c[0]},${c[1]},${c[2]})`
 </script>
 
-<div class="banner" style={styleString} >_</div>
+<div class="banner" style={styleString} >
+<a class='nav' href='/'>home</a>
+<!-- <a class='nav' href='/schedule'>schedule</a> -->
+<!-- <a class='nav' href='/schedule'>about</a> -->
+<!-- <a class='nav' href='/schedule'>archive</a> -->
+</div>
+
 <Title />
 
 <main>
@@ -25,6 +31,10 @@
         flex-direction: column;
         gap: 3em;
         max-width: $breakpoint;
+    }
+
+    .nav {
+        color:white;
     }
 
     @media (min-width: $breakpoint) {

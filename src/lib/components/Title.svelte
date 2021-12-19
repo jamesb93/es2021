@@ -37,13 +37,34 @@
     </div>
 </div>
 
+<div class="info date">
+    23-27 February 2022
+</div>
+
+<div class="info location">
+    university of huddersfield + dai hall 
+</div>
+
 <style lang='scss'>
+    .info {
+        margin-left: 1em;
+        font-size: 1.5rem;
+        margin-bottom: 0.35em;
+    }
+    .date {
+        font-size: 2rem;
+        background-color: rgba(255, 255, 0, 0.744);
+    }
+    .location {
+        margin-left: 2.5em;
+        background-color: white;
+        color: black;
+    }
     .grid {
         display: grid;
         grid-template-columns: repeat(auto-fill, 5rem);
-        place-items: center;
+        place-items: left;
         font-family: $mono;
-        padding-bottom: 2em;
     }
 
     .cell {

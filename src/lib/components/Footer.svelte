@@ -1,8 +1,8 @@
 <footer class='container'>
-    <img class='footer-break' src='/logo/circle1.png' />
-    <hr class='line'>
+    <img class='footer-break' src='/logo/circle1.png' alt='electric spring logo'/>
+    <div class='line' />
     <div class='contact'>
-        For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring.hud.ac.uk</a>
+        For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring@hud.ac.uk</a>
     </div>
 
     <div class='address'>
@@ -24,38 +24,28 @@
     .container {
         display: flex;
         flex-direction: column;
-        justify-content: center;
+        // justify-content: center;
         gap: 1em;
-        width: 65%;
         margin-top: auto;
         font-family: $overpass;
-        margin: 0 auto;
+        // margin: 0 auto;
         padding-bottom: 3em;
+        width: 100%;
     }
 
     .line {
         width: 100%;
+        height: 2px;
+        background-color: rgb(222, 222, 222);
     }
-
 
     .footer-break {
         width: 3rem;
         margin: 0 auto;
     }
-    .contact {
-
-    }
-
-    .sorry {
-
-    }
 
     .address {
         display: flex;
         flex-direction: column;
-    }
-
-    .attribution {
-
     }
 </style>

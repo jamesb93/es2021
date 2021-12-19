@@ -30,7 +30,7 @@
         display: flex;
         flex-direction: column;
         gap: 3em;
-        max-width: $breakpoint;
+        // max-width: $breakpoint;
     }
 
     .nav {
@@ -39,7 +39,7 @@
 
     @media (min-width: $breakpoint) {
         main {
-            margin: 0 auto;
+            // margin: 0 auto;
         }
     }
 

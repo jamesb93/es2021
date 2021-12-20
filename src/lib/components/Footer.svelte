@@ -1,34 +1,59 @@
 <footer class='container'>
-    <img class='footer-break' src='/logo/circle1.png' alt='electric spring logo'/>
-    <div class='line' />
-    <div class='contact'>
-        For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring@hud.ac.uk</a>
+    <div class="top">
+        <img class='footer-break' src='/logo/circle1.png' alt='electric spring logo'/>
+        <div class='line' />
     </div>
-
-    <div class='address'>
-        <span>University of Huddersfield</span>
-        <span>Richard Steinitz Building</span>
-        <span>Queensgate</span>
-        <span>HD1 3DH</span>
-        <span>United Kingdom</span>
-        <span>Admission to all events is free of charge</span>
-    </div>
+    <div class="bottom">
+        <div class="left">
+            <div class='contact'>
+                For any questions about the promotion of the events please contact: <a href='mailto:electic.spring@hud.ac.uk'>electric.spring@hud.ac.uk</a>
+            </div>
     
-    <div class="attribution">
-        ©2022 Electric Spring. Designed by <a href='https://jamesbradbury.net'>James Bradbury</a> and Niamh Dell
+            <div class='address'>
+                <span>University of Huddersfield</span>
+                <span>Richard Steinitz Building</span>
+                <span>Queensgate</span>
+                <span>HD1 3DH</span>
+                <span>United Kingdom</span>
+                <span>Admission to all events is free of charge</span>
+            </div>
+            
+            <div class="attribution">
+                ©2022 Electric Spring. Designed by <a href='https://jamesbradbury.net'>James Bradbury</a> and Niamh Dell
+            </div>
+        </div>
+    
+        <div class="right">
+            <img class='host' src='/host.jpg' alt='Supporting institutions logo' />
+        </div>
     </div>
-
 </footer>
 
 <style lang='scss'>
     .container {
         display: flex;
         flex-direction: column;
-        // justify-content: center;
+        gap: 1em;
+    }
+
+    .top {
+        display: grid;
+        place-items: center;
+        grid-template-columns: auto;
+        gap: 1em;
+    }
+
+    .bottom {
+        display: flex;
+        flex-direction: row;
+    }
+
+    .left {
+        display: flex;
+        flex-direction: column;
         gap: 1em;
         margin-top: auto;
         font-family: $overpass;
-        // margin: 0 auto;
         padding-bottom: 3em;
         width: 100%;
     }
@@ -47,5 +72,9 @@
     .address {
         display: flex;
         flex-direction: column;
+    }
+
+    .host {
+        max-width: 200px;
     }
 </style>

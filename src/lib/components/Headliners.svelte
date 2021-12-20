@@ -2,7 +2,7 @@
 
 <div class="artists">
     <a class='artist' target='_blank' href='https://lonetaxidermist.bandcamp.com'>23: Lone Taxidermist</a>
-    <a class='artist' target='_blank' href=''>24: Marie-Jeanne Wyckmans</a>
+    <a class='artist' target='_blank' href='https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans '>24: Marie-Jeanne Wyckmans</a>
     <a class='artist' target='_blank' href='https://icem.folkwang-uni.de/~gara/'>25: Javier Garavaglia + Claudia Robles-Angel</a>
     <a class='artist' target='_blank' href='http://riantreanor.com/'>26: Rian Treanor</a>
     <a class='artist' target='_blank' href='https://www.facebook.com/timothydidymus/'>throughout: Timothy Didymus</a>
@@ -19,7 +19,6 @@
         display: flex;
         flex-direction: column;
         margin: 0;
-        /* gap: 0.3em; */
     }
 
     .artist {

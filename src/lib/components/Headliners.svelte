@@ -1,31 +1,47 @@
+<script>
+    const headliners = [
+        { day: 23, name: 'Lone Taxidermist', link: 'https://lonetaxidermist.bandcamp.com' },
+        { day: 24, name: 'Marie-Jeanne Wyckmans', link: 'https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans' },
+        { day: 25, name: 'Javier Garavaglia + Claudia Robles-Angel', link: 'https://icem.folkwang-uni.de/~gara/'},
+        { day: 26, name: 'Rian Treanor', link: 'http://riantreanor.com/'},
+        { day: 'Throughout', name: 'Timothy Didymus', link: 'https://www.facebook.com/timothydidymus/'}
+    ]
+</script>
+
 <h2>Featuring</h2>
 
 <div class="artists">
-    <a class='artist' target='_blank' href='https://lonetaxidermist.bandcamp.com'>23: Lone Taxidermist</a>
-    <a class='artist' target='_blank' href='https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans '>24: Marie-Jeanne Wyckmans</a>
-    <a class='artist' target='_blank' href='https://icem.folkwang-uni.de/~gara/'>25: Javier Garavaglia + Claudia Robles-Angel</a>
-    <a class='artist' target='_blank' href='http://riantreanor.com/'>26: Rian Treanor</a>
-    <a class='artist' target='_blank' href='https://www.facebook.com/timothydidymus/'>throughout: Timothy Didymus</a>
+    {#each headliners as act}
+    <a class='artist' target='_blank' href={act.link}>
+        <div class="day">{act.day}</div>
+        <div class="name">{act.name}</div>
+    </a>
+    {/each}
 </div>
 
 <div class="extras">
-    PLUS: ame lunchtime series, ame late night gig, the creative coding lab symposium and more
+    PLUS: AME Lunchtime Series, AME Late Night Gig, The Creative Coding Lab Symposium and <i>more</i>
 </div>
 
 
 <style lang='scss'>
     .artists {
-        font-size: 1.75rem;
         display: flex;
         flex-direction: column;
         margin: 0;
     }
 
     .artist {
+        display: flex;
+        flex-direction: row;
+        gap: 0.5rem;
         max-width: max-content;
         text-decoration: none;
         color: black;
 
+        .day {
+            font-weight: bold;
+        }
     }
 
     .artist:hover {
@@ -40,10 +56,6 @@
     .artist:visited:hover {
         color: white;
         
-    }
-
-    .extras {
-        font-size: 1.4rem;
     }
 </style>
 

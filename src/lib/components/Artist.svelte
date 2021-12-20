@@ -40,12 +40,10 @@
         max-height: 200px;
     }
     .name {
-        font-size: 2rem;
     }
 
     .blurb {
         width: 100%;
-        font-size: 1rem;
         font-family: $overpass;
         text-align: left;
     }

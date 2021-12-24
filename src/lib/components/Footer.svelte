@@ -25,6 +25,7 @@
     
         <div class="right">
             <img class='host' src='/host.jpg' alt='Supporting institutions logo' />
+            <img class='host' src='/host2.jpg' alt='Supporting institutions logo' />
         </div>
     </div>
 </footer>

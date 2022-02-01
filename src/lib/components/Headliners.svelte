@@ -48,6 +48,7 @@
 <style lang='scss'>
     h3 { 
         margin-bottom: 0.3em;
+        text-align: left;
     }
 
     h3 > a {
@@ -79,6 +80,12 @@
         display: grid;
         grid-template-columns: repeat(2, 50%);
         gap: 1em;
+    }
+
+    @media (max-width: 950px) {
+        .artists {
+            grid-template-columns: auto;
+        }
     }
 
     .artist {

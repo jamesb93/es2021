@@ -7,8 +7,8 @@
 <div class="row">
     <div class="artists">
         <div class="artist">
-            <h3><u>23</u> <a href="https://lonetaxidermist.bandcamp.com">Lone Taxidermist</a></h3>
-            <img src='/artist/taxi.jpg' alt='Lone taxidermist profile'/>
+            <h3><u>23</u> <a href="https://linktr.ee/Lonetaxidermist">Nat Sharp</a></h3>
+            <img src='/artist/taxi.jpg' alt='Nat Sharp profile'/>
         </div>
 
         <div class="artist">

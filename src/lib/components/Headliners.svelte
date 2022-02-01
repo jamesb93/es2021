@@ -29,7 +29,7 @@
 <div class="row">
     <div class="artists">
         <div class="artist">
-            <h3><u>26</u> <a href="https://riantreanor.com/">Rian Treanor</a></h3>
+            <h3><u>26</u> <a href="http://riantreanor.com/">Rian Treanor</a></h3>
             <img src='/artist/rian.jpg' alt='Rian Treanor profile'/>
         </div>
 

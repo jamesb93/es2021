@@ -1,5 +1,6 @@
 <nav class="banner" >
     <a class='link' href='/'>home</a>
+    <a class='link' href='/line-up'>line-up</a>
     <!-- <a class='nav' href='/schedule'>schedule</a> -->
     <!-- <a class='nav' href='/about'>about</a> -->
     <!-- <a class='nav' href='/archive '>archive</a> -->

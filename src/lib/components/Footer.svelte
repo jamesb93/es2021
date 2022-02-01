@@ -47,7 +47,7 @@
     .bottom {
         display: flex;
         flex-direction: column;
-        maring: 0 auto;
+        margin: 0 auto;
     }
 
     .left {

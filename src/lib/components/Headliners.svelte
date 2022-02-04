@@ -57,7 +57,7 @@
     }
     .image-row {
         display: grid;
-        grid-template-columns: repeat(2, 50%);
+        grid-template-columns: repeat(2, calc(50% - 1em));
         gap: 1em;
     }
 

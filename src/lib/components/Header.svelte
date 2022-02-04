@@ -61,5 +61,6 @@
     .date {
         font-family: $mono;
         background-color: rgba(255, 255, 0, 0.744);
+        text-align: left;
     }
 </style>

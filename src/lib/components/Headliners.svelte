@@ -4,17 +4,15 @@
 
 <h2>Featuring</h2>
 
-<div class="row">
-    <div class="artists">
-        <div class="artist">
-            <h3><u>23</u> <a href="https://linktr.ee/Lonetaxidermist">Nat Sharp</a></h3>
-            <img src='/artist/taxi.jpg' alt='Nat Sharp profile'/>
-        </div>
+<div class="artists">
+    <div class="artist">
+        <h3><u>23</u> <a href="https://linktr.ee/Lonetaxidermist">Nat Sharp</a></h3>
+        <img src='/artist/taxi.jpg' alt='Nat Sharp profile'/>
+    </div>
 
-        <div class="artist">
-            <h3><u>24</u> <a href="https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans">Marie-Jeanne Wyckmans</a></h3>
-            <img src='/artist/wyckmans.jpg' alt='Marie-Jeanne Wyckmans profile'/>
-        </div>
+    <div class="artist">
+        <h3><u>24</u> <a href="https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans">Marie-Jeanne Wyckmans</a></h3>
+        <img src='/artist/wyckmans.jpg' alt='Marie-Jeanne Wyckmans profile'/>
     </div>
 </div>
 
@@ -26,17 +24,15 @@
     </div>
 </div>
 
-<div class="row">
-    <div class="artists">
-        <div class="artist">
-            <h3><u>26</u> <a href="http://riantreanor.com/">Rian Treanor</a></h3>
-            <img src='/artist/rian.jpg' alt='Rian Treanor profile'/>
-        </div>
+<div class="artists">
+    <div class="artist">
+        <h3><u>26</u> <a href="http://riantreanor.com/">Rian Treanor</a></h3>
+        <img src='/artist/rian.jpg' alt='Rian Treanor profile'/>
+    </div>
 
-        <div class="artist">
-            <h3><u>23-26</u> <a href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a></h3>
-            <img src='/artist/didy.jpg' alt='Timothy Didymus profile'/>
-        </div>
+    <div class="artist">
+        <h3><u>23-26</u> <a href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a></h3>
+        <img src='/artist/didy.jpg' alt='Timothy Didymus profile'/>
     </div>
 </div>
 
@@ -57,20 +53,13 @@
     }
     .image-row {
         display: grid;
-        grid-template-columns: repeat(2, calc(50% - 1em));
+        grid-template-columns: repeat(2, auto);
         gap: 1em;
     }
 
-    .image-row > img {
+    img { 
         width: 100%;
-    }
-
-    .row {
-        display: grid;
-        grid-template-columns: auto auto;
-    }
-    .artist > img {
-        width: 100%;
+        min-width: 100%;
     }
 
     p { 
@@ -78,11 +67,11 @@
     }
     .artists {
         display: grid;
-        grid-template-columns: repeat(2, 50%);
+        grid-template-columns: repeat(2, 1fr);
         gap: 1em;
     }
 
-    @media (max-width: 950px) {
+    @media (max-width: 1200px) {
         .artists {
             grid-template-columns: auto;
         }

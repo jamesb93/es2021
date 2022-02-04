@@ -14,6 +14,7 @@
     main {
         padding-top: 2em;
         max-width: $breakpoint;
+        min-width: 35ch;
         display: flex;
         flex-direction: column;
         gap: 1.5em;

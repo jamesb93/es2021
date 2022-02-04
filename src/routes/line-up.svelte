@@ -1,7 +1,9 @@
 <h3>Full Schedule</h3>
-All events are free of charge, however, please prebook tickets so that we can safely manage the number of attendees beforehand.
-
-<div class='container'>
+<p>
+    All events are free of charge, however, please <a target="_blank" href="https://www.eventbrite.co.uk/o/electric-spring-festival-41013064783">prebook tickets</a> so that we can safely manage the number of attendees beforehand.
+</p>
+    
+    <div class='container'>
     <div class='day' id='23'>
         <div class='date'>23</div>
         <div class="location">Phipps (7:30-9:30)</div>

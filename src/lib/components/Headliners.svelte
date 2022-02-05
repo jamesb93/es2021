@@ -2,18 +2,18 @@
 
 <div class="artists">
     <div class="artist">
-        <h3><u>23</u> <a href="https://linktr.ee/Lonetaxidermist">Nat Sharp</a></h3>
+        <h3><u>23</u> <a class='artist-link' href="https://linktr.ee/Lonetaxidermist">Nat Sharp</a></h3>
         <img src='/artist/taxi.jpg' alt='Nat Sharp profile'/>
     </div>
 
     <div class="artist">
-        <h3><u>24</u> <a href="https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans">Marie-Jeanne Wyckmans</a></h3>
+        <h3><u>24</u> <a class='artist-link' href="https://electrocd.com/en/artiste/wyckmans_ma/marie-jeanne-wyckmans">Marie-Jeanne Wyckmans</a></h3>
         <img src='/artist/wyckmans.jpg' alt='Marie-Jeanne Wyckmans profile'/>
     </div>
 </div>
 
 <div>
-    <h3><u>25</u> <a href="https://icem.folkwang-uni.de/~gara/">Javier Garavaglia</a> and <a href="http://www.claudearobles.de/"> Claudia Robles-Angel</a></h3>
+    <h3><u>25</u> <a class='artist-link' href="https://icem.folkwang-uni.de/~gara/">Javier Garavaglia</a> and <a class='artist-link' href="http://www.claudearobles.de/"> Claudia Robles-Angel</a></h3>
     <div class="image-row">
         <img src="/artist/gara.jpg" alt="Javier Garavaglia profile">
         <img src="/artist/robles.jpeg" alt="Claudia Robles profile">
@@ -22,12 +22,12 @@
 
 <div class="artists">
     <div class="artist">
-        <h3><u>26</u> <a href="http://riantreanor.com/">Rian Treanor</a></h3>
+        <h3><u>26</u> <a class='artist-link' href="http://riantreanor.com/">Rian Treanor</a></h3>
         <img src='/artist/rian.jpg' alt='Rian Treanor profile'/>
     </div>
 
     <div class="artist">
-        <h3><u>23-26</u> <a href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a></h3>
+        <h3><u>23-26</u> <a class='artist-link' href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a></h3>
         <img src='/artist/didy.jpg' alt='Timothy Didymus profile'/>
     </div>
 </div>

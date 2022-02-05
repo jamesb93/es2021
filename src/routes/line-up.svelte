@@ -1,4 +1,4 @@
-<h3>Full Schedule</h3>
+<h2>Full Schedule</h2>
 <p>
     All events are free of charge, however, please <a target="_blank" href="https://www.eventbrite.co.uk/o/electric-spring-festival-41013064783">prebook tickets</a> so that we can safely manage the number of attendees beforehand.
 </p>
@@ -7,71 +7,97 @@
     <div class='day' id='23'>
         <div class='date'>23</div>
         <div class="location">Phipps (7:30-9:30)</div>
-        <div class="act">NAT#</div>
-        <div class="act">NikNak</div>
+        <div class="act">
+            <a class='artist-link' href='https://linktr.ee/Lonetaxidermist'>NAT#</a>
+        </div>
+        <div class="act">
+            <a class='artist-link' href='https://www.niknakdjmusic.uk/'>NikNak</a>
+        </div>
         <div class="blurb">
             NAT# performs her intense acid rave howling with psychotic chaos brought to us from the Seychelles via Cumbria. 170 bpm and faster! NikNak starts the evening by a piece for 2 decks and electronics exploring the sonic relationship between the vinyl crackles and the rain.
         </div>
-        <a class='tickets' href="https://www.eventbrite.co.uk/e/262506874127">TICKETS</a>
+        <a class='tickets artist-link' href="https://www.eventbrite.co.uk/e/262506874127">TICKETS</a>
     </div>
+    
     <hr class="vertical-divider">
+
     <div class='day' id='24'>
         <div class='date'>24</div>
         <div class="location">Phipps (7:30)</div>
-        <div class="act">Marie-Jeanne Wyckmans</div>
-        <div class="act">Angela Hoyos Gómez</div>
+        <div class="act">
+            <a class='artist-link' href='https://electrocd.com/en/artiste/wyckmans_ma/Marie-Jeanne_Wyckmans'>Marie-Jeanne Wyckmans</a>
+        </div>
+        <div class="act">
+            <a class='artist-link' href='http://ulricaweb.net/'>Angela Hoyos Gómez</a>
+        </div>
         <div class="blurb">
             Marie-Jeanne Wyckmans presents a concert of her multichannel works, including a world premiere and extracts of her latest release on Empreintes DIGITALes. The evening will start with Ángela Hoyos Gómez retro-futuristic immersion into imaginable multilingual and trans-species transmissions.
         </div>
-        <a class='tickets' href="https://www.eventbrite.co.uk/e/262522861947">TICKETS</a>
+        <a class='tickets artist-link' href="https://www.eventbrite.co.uk/e/262522861947">TICKETS</a>
     </div>
     <hr class="vertical-divider">
     <div class='day' id='25'>
         <div class='date'>25</div>
         <div class="location">Phipps (7:30-9:30)</div>
-        <div class="act">Javier Garavaglia + Claudia Robles-Angel</div>
-        <div class="act">Ted Moore + Mark Hanslip</div>
+        <div class="act">
+            <a class='artist-link' href="https://icem.folkwang-uni.de/~gara/">Javier Garavaglia</a> + <a class='artist-link' href="http://www.claudearobles.de/">Claudia Robles-Angel</a>
+        </div>
+        <div class="act"> 
+            <a class='artist-link' href="https://www.tedmooremusic.com/">Ted Moore</a> + <a class='artist-link' href="https://www.cmrcyork.org/people/mark-hanslip/"> Mark Hanslip</a>
+        </div>
         <div class="blurb">
             Javier Garavaglia and Claudia Robles-Angel bring us a set where their works intertwine, joining multichannel acousmatic sensitivity, interactive mixed music and audiovisual pieces. Opening for them, improvisers Mark Hanslip on saxophone and electronicist Ted Moore appear for the first time as what promises to be an explosive duo.
         </div>
-        <a href="https://www.eventbrite.co.uk/e/262524597137" class="tickets">TICKETS</a>
+        <a href="https://www.eventbrite.co.uk/e/262524597137" class="tickets artist-link">TICKETS</a>
         <hr>
         <div class="location">Dai Hall (5:30-6:30)</div>
-        <div class="act">AME Alvin Lucier Concert (with Scott McLaughlin)</div>
+        <div class="act">AME Alvin Lucier Concert (with <a class='artist-link' href="https://www.lutins.co.uk/">Scott McLaughlin</a>)</div>
         <div class="blurb">
             In a tea-time concert curated by our friends at AME, Scott McLaughlin brings to us a selection of Alvin Lucier (1931-2021) seminal works.
         </div>
-        <a href="https://www.eventbrite.co.uk/e/262545700257" class="tickets">TICKETS</a>
+        <a href="https://www.eventbrite.co.uk/e/262545700257" class="tickets artist-link">TICKETS</a>
     </div>
     <hr class="vertical-divider">
     <div class='day' id='26'>
         <div class='date'>26</div>
         <div class="location">Phipps (7:30-9:30)</div>
-        <div class="act">Rian Treanor</div>
-        <div class="act">Rachel Gibson</div>
+        <div class="act">
+            <a class='artist-link' href='http://riantreanor.com/'>Rian Treanor</a>
+        </div>
+        <div class="act">
+            <a class='artist-link' href='https://rgibsonmusic.co.uk/'>Rachel Gibson</a>
+        </div>
         <div class="blurb">
             Rian Treanor gives us to a new site-specific multichannel performance that explores anti-symmetry, oblique digital synthesis, and extreme pattern deformation, forcing
 dynamic contrasts between density, tonality, and locality. Starting the evening, Rachael Gibson will premiere her piece for barytone guitar and electronics.
         </div>
-        <a href="https://www.eventbrite.co.uk/e/262543684227" class="tickets">TICKETS</a>
+        <a href="https://www.eventbrite.co.uk/e/262543684227" class="tickets artist-link">TICKETS</a>
         <hr>
         <div class="location">UoH G01 (12:00-18:30)</div>
         <div class="act">Creative Code Lab Symposium</div>
         <div class="blurb">
             An afternoon of presentations of creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
         </div>
-        <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets">TICKETS</a>
+        <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets artist-link">TICKETS</a>
         <hr>
         <div class="location">Dai Hall (9:00-10:30)</div>
-        <div class="act">AME Late Night Gig with Joanne Armitage + Eduard Cullenary</div>
+        <div class="act">
+            AME Late Night Gig with <a class='artist-link' href="https://joannnne.github.io/">Joanne Armitage</a> + <a class='artist-link' href="https://youtu.be/GKFBWRr-7u0"> Eduard Cullenary</a>
+        </div>
         <div class="blurb">
             A late night gig hosted and curated by our friends at AME, Joanne Armitage presents a live-coding set, followed by a performance by Edward Cullenary.
         </div>
-        <a href="https://www.eventbrite.co.uk/e/262553313027" class="tickets">TICKETS</a>
+        <a href="https://www.eventbrite.co.uk/e/262553313027" class="tickets artist-link">TICKETS</a>
     </div>
 </div>
 
-<div class="">Timothy Didymus will be hosting an installation each day from 5:00pm till 7:30pm in the Atrium of the Richard Steinitz building at the University of Huddersfield.</div>
+<div class="">
+    <a class='artist-link' href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a> will be hosting an installation each day from 5:00pm till 7:30pm in the Atrium of the Richard Steinitz building at the University of Huddersfield.
+</div>
+
+<div class="blurb">
+    An instrument which could be thought of simply as 'musical glasses', more  technically as an ‘acoustic resonance', or an 'idiophone automata'. For Electric  Spring, Kosmische Glass has been especially programmed to explore over 1016  million chord progressions.
+</div>
 
 <h3 id='locations-top'>Locations</h3>
 <div class="legend">
@@ -137,8 +163,4 @@ dynamic contrasts between density, tonality, and locality. Starting the evening,
         font-size: 1.5rem;
     }
 
-    .act {
-        display: flex;
-        flex-direction: row;
-    }
 </style>

@@ -1,7 +1,3 @@
-<script>
-    import { artists } from '$lib/artists';
-</script>
-
 <h2>Featuring</h2>
 
 <div class="artists">

@@ -2,9 +2,9 @@
     import Banner from '$lib/components/Banner.svelte';
 
     const title = 'electric spring';
-    let printedTitle = title;
     let logoUrl = '/logo/circle1.png';
 
+    setInterval(() => { randomTitle = randomCase(title)}, 3000)
     const randomCase = string => {
         const randomised = string.split('').map(x => { 
             const chance = Math.random();

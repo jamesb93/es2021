@@ -6,7 +6,7 @@
     <div class='container'>
     <div class='day' id='23'>
         <div class='date'>23</div>
-        <div class="location">Phipps (7:30-9:30)</div>
+        <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href='https://linktr.ee/Lonetaxidermist'>NAT#</a>
         </div>
@@ -23,7 +23,7 @@
 
     <div class='day' id='24'>
         <div class='date'>24</div>
-        <div class="location">Phipps (7:30)</div>
+        <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href='https://electrocd.com/en/artiste/wyckmans_ma/Marie-Jeanne_Wyckmans'>Marie-Jeanne Wyckmans</a>
         </div>
@@ -38,7 +38,7 @@
     <hr class="vertical-divider">
     <div class='day' id='25'>
         <div class='date'>25</div>
-        <div class="location">Phipps (7:30-9:30)</div>
+        <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href="https://icem.folkwang-uni.de/~gara/">Javier Garavaglia</a> + <a class='artist-link' href="http://www.claudearobles.de/">Claudia Robles-Angel</a>
         </div>
@@ -50,7 +50,7 @@
         </div>
         <a href="https://www.eventbrite.co.uk/e/262524597137" class="tickets artist-link">TICKETS</a>
         <hr>
-        <div class="location">Dai Hall (5:30-6:30)</div>
+        <div class="location">Dai Hall (17:30-18:30)</div>
         <div class="act">AME Alvin Lucier Concert (with <a class='artist-link' href="https://www.lutins.co.uk/">Scott McLaughlin</a>)</div>
         <div class="blurb">
             In a tea-time concert curated by our friends at AME, Scott McLaughlin brings to us a selection of Alvin Lucier (1931-2021) seminal works.
@@ -60,7 +60,7 @@
     <hr class="vertical-divider">
     <div class='day' id='26'>
         <div class='date'>26</div>
-        <div class="location">Phipps (7:30-9:30)</div>
+        <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href='http://riantreanor.com/'>Rian Treanor</a>
         </div>
@@ -73,14 +73,14 @@ dynamic contrasts between density, tonality, and locality. Starting the evening,
         </div>
         <a href="https://www.eventbrite.co.uk/e/262543684227" class="tickets artist-link">TICKETS</a>
         <hr>
-        <div class="location">UoH G01 (12:00-18:30)</div>
+        <div class="location">UoH G01 (12:30-18:00)</div>
         <div class="act">Creative Code Lab Symposium</div>
         <div class="blurb">
             An afternoon of presentations of creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets artist-link">TICKETS</a>
         <hr>
-        <div class="location">Dai Hall (9:00-10:30)</div>
+        <div class="location">Dai Hall (21:00-23:00)</div>
         <div class="act">
             AME Late Night Gig with <a class='artist-link' href="https://joannnne.github.io/">Joanne Armitage</a> + <a class='artist-link' href="https://youtu.be/GKFBWRr-7u0"> Edward Cullenary</a>
         </div>
@@ -92,7 +92,7 @@ dynamic contrasts between density, tonality, and locality. Starting the evening,
 </div>
 
 <div class="">
-    <a class='artist-link' href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a> will be hosting an installation each day from 5:00pm till 7:30pm in the Atrium of the Richard Steinitz building at the University of Huddersfield.
+    <a class='artist-link' href="https://www.facebook.com/timothydidymus/">Timothy Didymus</a> will be hosting an installation each day from 17:00 until 19:30pm in the Atrium of the Richard Steinitz building at the University of Huddersfield.
 </div>
 
 <div class="blurb">

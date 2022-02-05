@@ -14,7 +14,7 @@
             <a class='artist-link' href='https://www.niknakdjmusic.uk/'>NikNak</a>
         </div>
         <div class="blurb">
-            NAT# performs her intense acid rave howling with psychotic chaos brought to us from the Seychelles via Cumbria. 170 bpm and faster! NikNak starts the evening by a piece for 2 decks and electronics exploring the sonic relationship between the vinyl crackles and the rain.
+          NAT# performs her intense acid rave, howling with psychotic chaos - brought to us from the Seychelles via Cumbria. 170 bpm and faster!  NikNak starts the evening with a piece for 2 decks and electronics, exploring the sonic relationship between vinyl crackles and the rain.
         </div>
         <a class='tickets artist-link' href="https://www.eventbrite.co.uk/e/262506874127">TICKETS</a>
     </div>
@@ -31,13 +31,20 @@
             <a class='artist-link' href='http://ulricaweb.net/'>Ángela Hoyos Gómez</a>
         </div>
         <div class="blurb">
-            Marie-Jeanne Wyckmans presents a concert of her multichannel works, including a world premiere and extracts of her latest release on Empreintes DIGITALes. The evening will start with Ángela Hoyos Gómez retro-futuristic immersion into imaginable multilingual and trans-species transmissions.
+          Marie-Jeanne Wyckmans presents a concert of her multichannel works, including a world premiere and extracts of her latest release on Empreintes DIGITALes. The evening will start with Ángela Hoyos Gómez's retro-futuristic immersion into imaginable multilingual and trans-species transmissions.
         </div>
         <a class='tickets artist-link' href="https://www.eventbrite.co.uk/e/262522861947">TICKETS</a>
     </div>
     <hr class="vertical-divider">
     <div class='day' id='25'>
         <div class='date'>25</div>
+        <div class="location">Dai Hall (17:30-18:30)</div>
+        <div class="act">AME Alvin Lucier Concert (with <a class='artist-link' href="https://www.lutins.co.uk/">Scott McLaughlin</a>)</div>
+        <div class="blurb">
+          In a tea-time concert curated by our friends at AME: Scott McLaughlin brings to us a selection of Alvin Lucier's (1931-2021) seminal works.
+        </div>
+        <a href="https://www.eventbrite.co.uk/e/262545700257" class="tickets artist-link">TICKETS</a>
+        <hr>
         <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href="https://icem.folkwang-uni.de/~gara/">Javier Garavaglia</a> + <a class='artist-link' href="http://www.claudearobles.de/">Claudia Robles-Angel</a>
@@ -46,20 +53,20 @@
             <a class='artist-link' href="https://www.tedmooremusic.com/">Ted Moore</a> + <a class='artist-link' href="https://www.cmrcyork.org/people/mark-hanslip/"> Mark Hanslip</a>
         </div>
         <div class="blurb">
-            Javier Garavaglia and Claudia Robles-Angel bring us a set where their works intertwine, joining multichannel acousmatic sensitivity, interactive mixed music and audiovisual pieces. Opening for them, improvisers Mark Hanslip on saxophone and electronicist Ted Moore appear for the first time as what promises to be an explosive duo.
+          Javier Garavaglia and Claudia Robles-Angel bring us a set where their works intertwine - joining multichannel acousmatic sensitivity, interactive mixed music and audiovisual pieces. Opening for them, improvisers Mark Hanslip (saxophone) and Ted Moore (electronics), appear for the first time as what promises to be an explosive duo.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262524597137" class="tickets artist-link">TICKETS</a>
-        <hr>
-        <div class="location">Dai Hall (17:30-18:30)</div>
-        <div class="act">AME Alvin Lucier Concert (with <a class='artist-link' href="https://www.lutins.co.uk/">Scott McLaughlin</a>)</div>
-        <div class="blurb">
-            In a tea-time concert curated by our friends at AME, Scott McLaughlin brings to us a selection of Alvin Lucier (1931-2021) seminal works.
-        </div>
-        <a href="https://www.eventbrite.co.uk/e/262545700257" class="tickets artist-link">TICKETS</a>
     </div>
     <hr class="vertical-divider">
     <div class='day' id='26'>
         <div class='date'>26</div>
+        <div class="location">UoH G01 (12:30-18:00)</div>
+        <div class="act">Creative Code Lab Symposium</div>
+        <div class="blurb">
+          An afternoon of presentations for creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
+        </div>
+        <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets artist-link">TICKETS</a>
+        <hr>
         <div class="location">Phipps (19:30-21:00)</div>
         <div class="act">
             <a class='artist-link' href='http://riantreanor.com/'>Rian Treanor</a>
@@ -68,24 +75,16 @@
             <a class='artist-link' href='https://rgibsonmusic.co.uk/'>Rachael Gibson</a>
         </div>
         <div class="blurb">
-            Rian Treanor gives us a new site-specific multichannel performance that explores anti-symmetry, oblique digital synthesis, and extreme pattern deformation, forcing
-dynamic contrasts between density, tonality, and locality. Starting the evening, Rachael Gibson will premiere her piece for barytone guitar and electronics.
+          Rian Treanor gives us a new site-specific multichannel performance that explores anti-symmetry, oblique digital synthesis, and extreme pattern deformation - forcing dynamic contrasts between density, tonality, and locality. Starting the evening, Rachael Gibson will premiere her piece for baritone guitar and electronics.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262543684227" class="tickets artist-link">TICKETS</a>
-        <hr>
-        <div class="location">UoH G01 (12:30-18:00)</div>
-        <div class="act">Creative Code Lab Symposium</div>
-        <div class="blurb">
-            An afternoon of presentations of creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
-        </div>
-        <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets artist-link">TICKETS</a>
         <hr>
         <div class="location">Dai Hall (21:00-23:00)</div>
         <div class="act">
             AME Late Night Gig with <a class='artist-link' href="https://joannnne.github.io/">Joanne Armitage</a> + <a class='artist-link' href="https://youtu.be/GKFBWRr-7u0"> Edward Cullenary</a>
         </div>
         <div class="blurb">
-            A late night gig hosted and curated by our friends at AME, Joanne Armitage presents a live-coding set, followed by a performance by Edward Cullenary.
+          A late night gig hosted and curated by our friends at AME: Joanne Armitage presents a live-coding set, followed with a performance by Edward Cullenary.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262553313027" class="tickets artist-link">TICKETS</a>
     </div>

@@ -16,12 +16,18 @@
 
         .link {
             font-family: $mono;
-            font-size: 2rem;
+            font-size: 1.5rem;
         }
 
         .link:hover {
             color: white;
             background-color:black;
+        }
+    }
+    @media (max-width: 600px) {
+        nav {
+            display: flex;
+            flex-direction: column;
         }
     }
 </style>

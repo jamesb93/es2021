@@ -29,7 +29,6 @@
 
 <header>
     <Banner />
-
     <div class='festival-name'>
         <h1 class='name' on:mouseenter={ () => { randomTitle = randomCase(title)} }>{ randomTitle }</h1>
         <img src={logoUrl} class=logo alt='electric spring logo'/>

@@ -1,7 +1,7 @@
 <nav class="banner" >
     <a class='link' href='/'>home</a>
     <a class='link' href='/line-up'>line-up</a>
-    <a href="/artists" class="link">artists</a>
+    <!-- <a href="/artists" class="link">artists</a> -->
     <a target="_blank" href="https://www.eventbrite.co.uk/o/electric-spring-festival-41013064783" class="link">free tickets</a>
 </nav>
 

@@ -28,7 +28,7 @@
             <a class='artist-link' href='https://electrocd.com/en/artiste/wyckmans_ma/Marie-Jeanne_Wyckmans'>Marie-Jeanne Wyckmans</a>
         </div>
         <div class="act">
-            <a class='artist-link' href='http://ulricaweb.net/'>Angela Hoyos Gómez</a>
+            <a class='artist-link' href='http://ulricaweb.net/'>Ángela Hoyos Gómez</a>
         </div>
         <div class="blurb">
             Marie-Jeanne Wyckmans presents a concert of her multichannel works, including a world premiere and extracts of her latest release on Empreintes DIGITALes. The evening will start with Ángela Hoyos Gómez retro-futuristic immersion into imaginable multilingual and trans-species transmissions.
@@ -65,10 +65,10 @@
             <a class='artist-link' href='http://riantreanor.com/'>Rian Treanor</a>
         </div>
         <div class="act">
-            <a class='artist-link' href='https://rgibsonmusic.co.uk/'>Rachel Gibson</a>
+            <a class='artist-link' href='https://rgibsonmusic.co.uk/'>Rachael Gibson</a>
         </div>
         <div class="blurb">
-            Rian Treanor gives us to a new site-specific multichannel performance that explores anti-symmetry, oblique digital synthesis, and extreme pattern deformation, forcing
+            Rian Treanor gives us a new site-specific multichannel performance that explores anti-symmetry, oblique digital synthesis, and extreme pattern deformation, forcing
 dynamic contrasts between density, tonality, and locality. Starting the evening, Rachael Gibson will premiere her piece for barytone guitar and electronics.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262543684227" class="tickets artist-link">TICKETS</a>
@@ -82,7 +82,7 @@ dynamic contrasts between density, tonality, and locality. Starting the evening,
         <hr>
         <div class="location">Dai Hall (9:00-10:30)</div>
         <div class="act">
-            AME Late Night Gig with <a class='artist-link' href="https://joannnne.github.io/">Joanne Armitage</a> + <a class='artist-link' href="https://youtu.be/GKFBWRr-7u0"> Eduard Cullenary</a>
+            AME Late Night Gig with <a class='artist-link' href="https://joannnne.github.io/">Joanne Armitage</a> + <a class='artist-link' href="https://youtu.be/GKFBWRr-7u0"> Edward Cullenary</a>
         </div>
         <div class="blurb">
             A late night gig hosted and curated by our friends at AME, Joanne Armitage presents a live-coding set, followed by a performance by Edward Cullenary.

@@ -5,7 +5,7 @@
 
 <style>
     .info {
-        font-size: 1.75rem;
+        font-size: 1rem;
         text-align: left;
     }
 </style>

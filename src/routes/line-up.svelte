@@ -63,7 +63,7 @@
         <div class="location">UoH G01 (12:30-18:00)</div>
         <div class="act">Creative Code Lab Symposium</div>
         <div class="blurb">
-          An afternoon of presentations for creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
+          An afternoon of presentations about creative and technical endeavours, featuring commented demonstrations from Francesco Cameli, Ted Moore, Claudia Robles Angel and Javier A. Garavaglia.
         </div>
         <a href="https://www.eventbrite.co.uk/e/262548037247" class="tickets artist-link">TICKETS</a>
         <hr>
